@@ -1,0 +1,45 @@
+Struct:
+    - linked list
+    - linked stack 
+    - array list
+    - array list
+    - heap
+    - B-tree
+    - black-red tree
+    - graph
+    - hashing table
+    - Queue
+   
+
+Clasic Algorithms:
+    - hanoi 
+    - quick sort
+    - heap 
+    - wyszukiwanie wzorca
+    - neural network:	Pojêcia podstawowe z zakresu sztucznej inteligencji
+		Omówienie podstawowych pojêæ z zakresu sztucznej inteligencji: informacja, przetwarzanie informacji, bazy wiedzy, itp.
+
+Sztuczne sieci neuronowe
+Omówienie budowy sztucznego neuronu, sieci MLP, sieci ze sprzê¿eniem zwrotnym. Omówienie dzia³ania i uczenia. Algorytmy uczenia neuronu. Algorytmy nadzorowanego uczenia sztucznej sieci neuronowej. Algorytm nienadzorowanego uczenia sztucznej sieci neuronowej. Zastosowanie sztucznych sieci neuronowych w metamodelach. Przyk³ady zastosowañ sztucznych sieci neuronowych w metalurgii.
+
+Systemy ekspertowe
+Metody reprezentacji wiedzy. Systemy ekspertowe i ich budowa. Zasady wnioskowania w systemach ekspertowych. Przyk³ady zastosowañ systemów ekspertowych w metalurgii.
+
+Systemy agentowe
+Systemy agentowe: dzia³anie i budowa, przyk³ady zastosowañ.
+
+Algorytmy ewolucyjne
+Algorytmy ewolucyjne – budowa, dzia³anie, przyk³ady zastosowañ.
+    - kruskal
+    - dikstra
+    - plecakowy
+    - komiwoja¿era
+    - mutex, procesy, w¹tki
+    - Boidy
+
+dziel i zwyciê¿aj:
+programowanie dynamiczne:zagadnieñ wykorzystuje siê do rozwi¹zania g³ównego problemu
+metoda zach³anna:
+programowanie liniowe:
+wyszukiwanie wyczerpuj¹ce:
+heurystyka:
