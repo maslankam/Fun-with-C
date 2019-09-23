@@ -9,7 +9,7 @@ struct linkedStack{
 
 struct node{
     int Item;
-    int *predecessor;
+    struct node *predecessor;
 };
 
 void Push(struct linkedStack *linked, int value){
